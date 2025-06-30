@@ -73,10 +73,11 @@ Runs on: http://localhost:3000
 
 ```
 ### Backend Setup 
+```bash
+
 cd backendcode
 npm install
 
-```bash
 
 # Create a .env file with Mongo URI and JWT secret
 npm run dev
@@ -84,10 +85,10 @@ Runs on: http://localhost:5000
 
 ```
 ### example.env 
+```bash
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret_key
 
-```bash
 
 ## Screenshots:- 
 
